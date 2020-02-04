@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:MetaMask Team
+N;CHARSET=UTF-8:MetaMask Team;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;49 bogart st #22;Brooklyn;NY;11206;USA
+EMAIL:support@metamask.io
+ORG;CHARSET=UTF-8:MetaMask
+URL:http://metamask.io
+END:VCARD
